@@ -1,7 +1,0 @@
-#Wed Mar 13 14:27:59 CST 2019
-base.0=/Users/yttrium/Nutstore Files/Nutstore/LM/2018-S2-IT/RadarOpal_Server-master/mapHelper/app/build/intermediates/transforms/dexMerger/debug/10
-path.1=classes2.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/yttrium/Nutstore Files/Nutstore/LM/2018-S2-IT/RadarOpal_Server-master/mapHelper/app/build/intermediates/transforms/dexMerger/debug/10
