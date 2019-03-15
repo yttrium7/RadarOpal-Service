@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yttrium/Nutstore Files/Nutstore/LM/2018-S2-IT/RadarOpal_Server/mapHelper/app/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/yttrium/Nutstore Files/Nutstore/LM/2018-S2-IT/RadarOpal_Server/mapHelper/app/src/debug/shaders"/></dataSet></merger>

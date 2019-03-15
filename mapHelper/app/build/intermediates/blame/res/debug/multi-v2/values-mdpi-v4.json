@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yttrium/Nutstore Files/Nutstore/LM/2018-S2-IT/RadarOpal_Server/mapHelper/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/yttrium/.gradle/caches/transforms-1/files-1.1/mapbox-android-navigation-ui-0.18.0.aar/3bee30d96ddcd9e686b7cc65b4b05e62/res/values-mdpi-v4/values-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,47",
+                        "endOffsets": "104,152"
+                    }
+                }
+            ]
+        }
+    ]
+}

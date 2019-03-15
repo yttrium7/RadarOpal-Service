@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RadarScope</string>
+
+    <!--Mapbox-->
+    <string name="access_token" translatable="false">pk.eyJ1Ijoic2t5MTk5NTQ5MjYiLCJhIjoiY2psczE4NXA2MGI2bzNwanJhamtxb2RlZSJ9.Ib7V8KglAlaHBVBZT_4HoA</string>
+
+    <!--main_menu-->
+    <string name="sign_out">Sign Out</string>
+    <string name="invite_menu_label">Add new Friend</string>
+
+    <!--bottom tabs-->
+    <string name="menu_main">Main</string>
+    <string name="menu_message">Message</string>
+    <string name="menu_contacts">Contacts</string>
+    <string name="menu_account">Account</string>
+
+    <!--firebase child-->
+    <string name="USER_CHILD">users</string>
+    <string name="LOCATION_CHILD">location</string>
+    <string name="MESSAGE_CHILD">messages</string>
+
+    <!--user status-->
+    <string name="offline">offline</string>
+    <string name="online">online</string>
+
+    <string name="search_place">Search</string>
+
+    <!--profile-->
+    <string name="unfriend">Unfriend this person</string>
+    <string name="send_request">Send friend request</string>
+    <string name="cancel_request">Cancel friend request</string>
+    <string name="send_message">Send Message</string>
+    <string name="accept_request">Accept request</string>
+    <string name="profile_title">User Profile</string>
+
+    <!--account fragment-->
+    <string name="telephone_number">Telephone Number </string>
+    <string name="address">Address </string>
+    <string name="username">User Name </string>
+    <string name="empty">EMPTY</string>
+    <string name="type_phone">Type Your New Phone Number Below</string>
+
+    <!--auto message-->
+    <string name="choose_auto_message_receiver">Choose a friend to send safe Message, he/she will receive safe message if you are on the right route during your journey every 10 min</string>
+
+    <!--voice chat-->
+    <string name="agora_app_id">8d54374c18a543b8a4ca0aef97f0f2cf</string>
+</resources>
