@@ -41,8 +41,8 @@ Android device running SDK>=22
 5. It uses espresso and Junit4 to test the UI and Activity of the projects.
 
 # Members of RadarOpal:
-	773490 Wenxin Wu
-    779731 Bo Xu
-    782971 Tenghe Zhang
-    813686 Xiaotian Su
-    828763 Yichen Lin
+	****** Wenxin Wu
+    ****** Bo Xu
+    ****** Tenghe Zhang
+    ****** Xiaotian Su
+    ****** Yichen Lin
